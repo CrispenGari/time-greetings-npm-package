@@ -1,0 +1,11 @@
+{
+  "name": "@time-greeting",
+  "version": "1.0.0",
+  "description": "THIS IS A SIMPLE PACKAGE THAT GREETS PEOPLE BASED ON THE TIME OF THE DAY.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "CRISPEN GARI",
+  "license": "ISC"
+}
