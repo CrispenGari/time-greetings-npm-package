@@ -1,5 +1,5 @@
 {
-  "name": "@time-greeting",
+  "name": "time-greetings",
   "version": "1.0.0",
   "description": "THIS IS A SIMPLE PACKAGE THAT GREETS PEOPLE BASED ON THE TIME OF THE DAY.",
   "main": "index.js",
